@@ -1,0 +1,126 @@
+body{
+    font-family: 'Poppins', sans-serif ;
+}
+h1{
+    font-size: 40px;
+}
+p{
+    text-align: justify;
+    color: dimgray;
+}
+.name-highlight{
+    color: rgb(228, 18, 98);
+    font-size: 40px;
+}
+.link-bottom{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, #ec4590, #ec4b75);
+    color: white;
+    border-radius: 5px;
+    padding: 5px;
+}
+.pic{
+    width: 100%;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.top{
+    background-image: url("header-bg.png");
+    background-size: 100%;
+}
+.top2{
+    background-image: url("biography-bg.png");
+    background-size: 100%;
+}
+section{
+    height: 500px;
+    padding-bottom: 200px;
+}
+.half-width img{
+    width: 90%;
+}
+.middle{
+    text-align: center;
+}
+.r-width img{
+width: 30%;
+float: left;
+margin-left: 2.5%;
+}
+.latest-work{
+    background-image: url(latest-work-bg.png);
+    background-size: 100%;
+}
+.far{
+    padding-bottom: 70px;
+}
+.last{
+    text-align: center;
+    background-color: tomato;
+}
+}
+.rana{
+    font-size: 30px;
+    text-align: center;
+    background-color: tomato;
+}
+.ami{
+    text-align: center;
+    font-size: 30px;
+    color: white;
+}
+.tumi{
+    text-align: center;
+    color: white;
+}
+
+.faro{
+    text-align: center;
+}
+
+
+
+.call-me{
+    background-image: linear-gradient(45deg, #ec4590, #ec4b75);
+    height: 18%;
+    width: 40%;
+    margin: 5%;
+    margin-left: 30%;
+    margin-right: 30%;
+    border-radius: 5px;
+    text-align: center;
+    padding: 1% 0 3% 0;
+    box-sizing: border-box;
+    color: #fff;
+}
+
+
+
+
+
+
+
+.client-info {
+    text-align: center;
+    margin-top: 3%;
+}
+
+.client-info h2 {
+    margin-bottom: .5%;
+}
+
+.client-info span {
+    color: #707070;
+}
+
+.client-info p {
+    width: 50%;
+    margin: 0 auto;
+    color: #333333;
+    font-weight: 600;
+    margin-top: 3%;
+}
